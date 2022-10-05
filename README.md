@@ -1,7 +1,7 @@
 # ribamator
 A tool to Generate text from a test sample.
 
-````
+```
 usage: ribamator.py [-h] {model,generate,update} ...
 
 A tool to Generate text from a test sample.
